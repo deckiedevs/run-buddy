@@ -12,3 +12,5 @@ https://miladecker.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by Mila Decker
+
+### ©️2019 Run Buddy, Inc 
