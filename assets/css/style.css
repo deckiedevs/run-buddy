@@ -1,4 +1,4 @@
-/* general style */
+/* GENERAL STYLE */
 
 * {
     margin: 0;
@@ -15,7 +15,7 @@ body {
     display: flex;
 }
 
-/* contact style */
+/* CONTACT STYLE */
 
 .contact {
     background-color: #024e76;
@@ -80,7 +80,7 @@ body {
     font-style: normal;
 }
 
-/* footer style */
+/* FOOTER STYLE */
 
 footer {
     background: #fce138;
@@ -106,7 +106,7 @@ footer div {
     text-align: right;
 }
 
-/* header style */
+/* HEADER STYLE */
 
 header {
     padding: 20px 35px;
@@ -146,7 +146,7 @@ header nav ul li a {
     font-size: 1.55vw;
 }
 
-/* hero style */
+/* HERO STYLE */
 
 .form-input {
     width: 100%;
@@ -213,7 +213,7 @@ header nav ul li a {
     margin: 5px 0 15px 0;
 }
 
-/* meet the trainers style */
+/* MEET THE TRAINERS STYLE */
 
 .trainer {
     margin: 20px;
@@ -261,7 +261,7 @@ header nav ul li a {
     text-align: right;
 }
 
-/* section style */
+/* SECTION STYLE */
 
 section {
     padding: 60px;
@@ -285,7 +285,7 @@ section {
     border-color: #39a6b2;
 }
 
-/* what we do style */
+/* WHAT WE DO STYLE */
 
 .intro p {
     line-height: 1.7;
@@ -296,7 +296,7 @@ section {
     text-align: center;
 }
 
-/* what you do style */
+/* WHAT YOU DO STYLE */
 
 .step {
     margin: 50px auto;
@@ -349,6 +349,18 @@ section {
     color: #39a6b2;
     font-size: 18px;
 }
+
+/* SERVICE PLAN STYLE */
+.service-grid-container {
+    display: grid;
+}
+
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;}
 
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 
