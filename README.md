@@ -1,14 +1,14 @@
 # Run Buddy Inc.
 
 ## Purpose
-A website that offers fitness training services. 
+Run Buddy was created using guided lessons provided by the University of Central Florida Coding Boot Camp.  The Run Buddy project spanned Modules 1 and 2 of the boot camp and introduced students to HTML and advanced CSS concepts.
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
-https://miladecker.github.io/run-buddy/
+https://deckiedevs.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Mila Decker
